@@ -107,5 +107,7 @@ p.footer{
     font-family:'Heebo', sans-serif;
     font-size: 20px;
     margin-left: 30px;
-
+}
+.img-body:hover{
+    border-color: rgb(4, 71, 133);
 }
